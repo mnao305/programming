@@ -1,0 +1,23 @@
+{
+  "name": "programming",
+  "version": "1.0.0",
+  "description": "プログラミング練習",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnao305/programming.git"
+  },
+  "author": "mnao305 <naomasa305@gmail.com> (https://mnao305.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnao305/programming/issues"
+  },
+  "homepage": "https://github.com/mnao305/programming#readme",
+  "dependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
