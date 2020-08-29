@@ -1,5 +1,7 @@
 /**
  * 配列をシャッフルする
+ *
+ * Fisher-Yates shuffleアルゴリズム
  * @param {number[]} ary - シャッフルする配列
  * @returns {number[]} シャッフルした配列
  */
